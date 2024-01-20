@@ -1,0 +1,53 @@
+div{
+    color: blue;
+}
+
+h1{
+    color: rgb(255, 119, 0);
+}
+/* list property  */
+ul{
+    list-style: circle;
+}
+
+
+/* Font properties */
+p{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+
+/* text property */
+h3{
+
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    border: 5px solid rgb(255, 106, 0);
+
+}
+h4{
+    border: 5px  rgb(227, 6, 139);
+    border-style: dotted;
+}
+.dev{
+    color: brown;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:30px solid rgba(255, 0, 0, 0.77);
+
+
+}
+
+.bg-color{
+    background-color: bisque;
+    font-family:Geneva, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
