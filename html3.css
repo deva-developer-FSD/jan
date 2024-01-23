@@ -1,0 +1,63 @@
+
+        *{
+            margin:0;
+            padding:0;
+        }
+       .divi{
+        position:relative;
+        background-color: darkgray;
+        width: 500px;
+        height: 500px;
+        margin: 10px 20px 20px 10px;
+        border-top: 10px solid black;
+        text-align: center;
+
+
+
+       } 
+
+       .dev{
+        position: relative;
+        bottom:530px;
+        left: 600px;
+        width:500px;
+        height:500px;
+        background-color: aqua;
+        border-top: 10px solid black;
+        text-align: center;
+        
+       }
+
+       .deva{
+        position: relative;
+        bottom: 600px;
+        background-color: rgba(33, 33, 168, 0.991);
+        width: 500px;
+        height: 500px;
+        margin: 100px 20px 20px 10px;
+        border-top: 10px solid black;
+        text-align: center;
+
+
+
+
+       }
+       .devan{
+        position: relative;
+        left:600px;
+         bottom:1130px;
+        background-color: rgb(230, 57, 57);
+        width: 500px;
+        height: 500px;
+        margin: 10px 20px 20px 10px;
+        border-top: 10px solid black;
+        text-align: center;
+       }
+       
+       .box{
+        
+        border: solid black 20px ;
+        height: 1100px;
+        margin: 50px 50px 10px 200px;
+       }
+  
